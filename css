@@ -1,0 +1,94 @@
+div[tid="KJgdV"]
+	{
+		display: none !important;
+	}
+
+.qv-mode-edit div[tid="KJgdV"]
+	{
+		display: block !important;
+	}
+
+header.qv-object-header.thin,
+.top-meta-headers.list.ng-scope,
+.button-wrapper.ng-scope
+	{
+		display: none !important;
+	}
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(n+3):nth-child(-n+5)
+	{
+		background-color: blue !important;
+		COLOR: WHITE;
+	}
+
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(n+6):nth-child(-n+8)
+	{
+		background-color: LightGreen !important;
+		COLOR: WHITE;
+	}
+
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(n+9):nth-child(-n+11)
+	{
+		background-color: Yellow !important;
+		COLOR: WHITE;
+	}
+
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(n+12):nth-child(-n+14)
+	{
+		background-color: DarkGray !important;
+		COLOR: WHITE;
+	}
+
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(n+1):nth-child(-n+2),
+div > article > div.qv-inner-object.no-titles > div > div > div > div > div > table > tbody > tr:nth-child(1) > th.cell.ng-scope.header.empty.left-meta
+	{
+		background-color: red !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(2)::after
+	{
+		content: "Área ";
+		COLOR: WHITE !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+div > div:nth-child(1) > div > article > div.qv-inner-object.no-titles > div > div > div > div > div.scroll-content > table > tbody > tr.ng-scope.last-top-row > th:nth-child(1)::after
+	{
+		content: "FAR ";
+		COLOR: WHITE !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+div > article > div.qv-inner-object.no-titles > div > div > div > div > div > table > tbody > tr:nth-child(1) > th.cell.ng-scope.header.empty.left-meta::after 
+	{
+		content: "teste ";
+		COLOR: WHITE;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+
+.qv-pt .cell.header.top .value 
+	{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+	
+div[tid="YUPpJP"]
+	{
+		border-top: 0 !important;
+		border-bottom: 0 !important;
+		border-left: 0 !important;
+		border-right: 0 !important;
+	}
+
